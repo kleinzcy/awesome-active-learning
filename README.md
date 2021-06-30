@@ -16,6 +16,8 @@ Awesome Active Learning [![Awesome](https://awesome.re/badge.svg)](https://aweso
 ## Pool-Based Sampling
 
 ### Singleton
+* [ON STATISTICAL BIAS IN ACTIVE LEARNING: HOW AND WHEN TO FIX IT](https://openreview.net/pdf?id=JiYq3eqTKY). Sebastian Farquhar†∗, Yarin Gal†
+, Tom Rainforth‡. (ICLR, 2021)
 
 * [A Variance Maximization Criterion for Active Learning](https://arxiv.org/pdf/1706.07642.pdf). Yazhou Yang, Marco Loog. (Pattern Recognition, 2018)
 
